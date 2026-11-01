@@ -19,3 +19,6 @@ metadata.json
 .env.example
 .aistudio/
 test_gen.bat
+
+# Composant de telechargement retire (l'app est deja installee)
+src/components/DownloadModal.tsx
