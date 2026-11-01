@@ -1,0 +1,21 @@
+# Dependances
+node_modules/
+
+# Build
+dist/
+
+# Logs / systeme
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Secrets
+.env
+.env.local
+
+# Restes du template Google AI Studio (hors perimetre du projet)
+metadata.json
+.env.example
+.aistudio/
+test_gen.bat
