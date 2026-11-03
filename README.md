@@ -7,6 +7,13 @@ Aucune donnée fictive : tout ce qui est affiché est mesuré sur la machine.
 
 **Auteur** : Malik Belkacemi — [@MlkBlk-IT](https://github.com/MlkBlk-IT)
 **Licence** : Tous droits réservés — voir [LICENSE](LICENSE).
+## Nouveautés — 2026-11-01
+
+| Changement | Ce que ça change |
+|---|---|
+| **v1.0.0 — moteur natif** | Moteur Windows en C# (psapi/ntdll) + interface Fluent, **mesures réelles**. |
+| **Composant de téléchargement retiré** | L'application est déjà installée : le dépôt ne distribue plus d'installeur. |
+| **Aucune donnée fictive** | Tout ce qui est affiché est mesuré sur la machine — voir « Mesures : d'où viennent les chiffres ». |
 
 ---
 
