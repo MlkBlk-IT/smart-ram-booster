@@ -1,5 +1,15 @@
 # Smart RAM Booster
 
+> **Part of the [MLKBLK-IT ecosystem](https://github.com/MlkBlk-IT)** — local-first AI infrastructure,
+> CPU-only, documented honestly.
+>
+> **Stack:** [IcyLoom](https://github.com/MlkBlk-IT/icy-loom) (MCP tool gateway) ·
+> [Osiris](https://github.com/MlkBlk-IT/osiris) (context engine) ·
+> [KYRX](https://github.com/MlkBlk-IT/kyrx) (agent-fleet coordination) ·
+> [IcyCache](https://github.com/MlkBlk-IT/icycache) (LLM gateway + cache) ·
+> [Loom](https://github.com/MlkBlk-IT/mcp-loom-mcp) (portable context server)
+
+
 Optimiseur de mémoire vive pour **Windows 11** — moteur natif C# + interface Fluent.
 Aucune donnée fictive : tout ce qui est affiché est mesuré sur la machine.
 
@@ -7,7 +17,8 @@ Aucune donnée fictive : tout ce qui est affiché est mesuré sur la machine.
 
 **Auteur** : Malik Belkacemi — [@MlkBlk-IT](https://github.com/MlkBlk-IT)
 **Licence** : Tous droits réservés — voir [LICENSE](LICENSE).
-## Nouveautés — 2026-11-01
+
+## Nouveautés — 2026-11-01
 
 | Changement | Ce que ça change |
 |---|---|
